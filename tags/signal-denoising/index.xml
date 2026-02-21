@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Signal Denoising on Kjanija</title><link>https://kjanija.github.io/tags/signal-denoising/</link><description>Recent content in Signal Denoising on Kjanija</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kjanija.github.io/tags/signal-denoising/index.xml" rel="self" type="application/rss+xml"/><item><title>ECG Signal Denoising with EEMD and Genetic Algorithms</title><link>https://kjanija.github.io/projects/bachelorsthesis/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://kjanija.github.io/projects/bachelorsthesis/</guid><description>A ML pipeline designed to denoise ECG signals by combining EEMD to isolate frequency bands and a Genetic Algorithm to adaptively threshold and filter out noise</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Denoising on Kjanija</title>
+    <link>http://192.168.1.112:1313/tags/signal-denoising/</link>
+    <description>Recent content in Signal Denoising on Kjanija</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.1.112:1313/tags/signal-denoising/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECG Signal Denoising with EEMD and Genetic Algorithms</title>
+      <link>http://192.168.1.112:1313/projects/bachelorsthesis/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.112:1313/projects/bachelorsthesis/</guid>
+      <description>A ML pipeline designed to denoise ECG signals by combining EEMD to isolate frequency bands and a Genetic Algorithm to adaptively threshold and filter out noise</description>
+    </item>
+  </channel>
+</rss>

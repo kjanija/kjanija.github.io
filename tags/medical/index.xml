@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical on Kjanija</title>
+    <link>http://192.168.1.112:1313/tags/medical/</link>
+    <description>Recent content in Medical on Kjanija</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.1.112:1313/tags/medical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alzheimer&#39;s Disease Classification using Graph Attention Networks and LSTMs</title>
+      <link>http://192.168.1.112:1313/projects/dlproject/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.112:1313/projects/dlproject/</guid>
+      <description>A hybrid GAT-LSTM deep learning pipeline tha classifies Alzheimer&amp;rsquo;s disease severity by converting 2D MRI brain slices into superpixel graphs.</description>
+    </item>
+  </channel>
+</rss>
